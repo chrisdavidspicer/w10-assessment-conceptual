@@ -1,40 +1,43 @@
 No code editor, no python interpreter, no Google!
 Show what you know!
 
+correct answers = ✅
+wrong answers = ❌
+
 # Your answers here:
 
-1. 444 ?
+1. 444 ✅
 
-2. -22 ?
+2. -22 ✅
 
-3. 100
+3. 100 ✅
 
-4. 3 ?
+4. 3 ✅
 
-5. dictionary
+5. dictionary ✅
 
-6. list
+6. list ✅
 
-7. 3
+7. 3 ✅
 
 8. rose
    tulip
-   daisy
+   daisy ✅
 
-9. tulip
-   daisy
+9. tulip 
+   daisy ✅
    
 10. rose
-    tulip ?
+    tulip ❌
     
-11. ['banana', 'Cheeseburger', 'taco', 'pizza']
+11. ['banana', 'Cheeseburger', 'taco', 'pizza'] ❌
 
-12. def
+12. def ✅
 
-13. :
+13. : ✅
 
-14. def class
+14. class ✅
 
-15. A
+15. A ✅
 
-16. __init__
+16. __init__ ✅
