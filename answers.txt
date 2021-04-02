@@ -2,3 +2,39 @@ No code editor, no python interpreter, no Google!
 Show what you know!
 
 # Your answers here:
+
+1. 444 ?
+
+2. -22 ?
+
+3. 100
+
+4. 3 ?
+
+5. dictionary
+
+6. list
+
+7. 3
+
+8. rose
+   tulip
+   daisy
+
+9. tulip
+   daisy
+   
+10. rose
+    tulip ?
+    
+11. ['banana', 'Cheeseburger', 'taco', 'pizza']
+
+12. def
+
+13. :
+
+14. def class
+
+15. A
+
+16. __init__
